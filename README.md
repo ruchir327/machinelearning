@@ -1,0 +1,3 @@
+# machinelearning
+At times, the property dealers appreciate the prices based on the demand and hence there is rise in prices in real estate. So, in order to cope with this problem so that it is beneficial for the customers, we must have a model in place which should tell us the ideal prices of the house based on its characteristics.
+The objective of the study is to predict the ideal prices of the houses based on their characteristics using a regression algorithm.
